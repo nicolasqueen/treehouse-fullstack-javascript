@@ -1,0 +1,1 @@
+This is a workspace for my work during the Treehouse FullStack Javascript track. 
